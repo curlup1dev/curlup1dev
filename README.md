@@ -62,6 +62,10 @@ Comunidade focada em anime, games, madrugada e lofi.
 ```txt
 Discord: cur1up
 GitHub: curlup1dev
+
+## 📈 Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curlup1dev&show_icons=true&theme=midnight-purple&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curlup1dev&layout=compact&theme=midnight-purple&hide_border=true)
+
+![Snake animation](https://github.com/curlup1dev/curlup1dev/blob/output/github-contribution-grid-snake-dark.svg)
 ```
 
 ---
